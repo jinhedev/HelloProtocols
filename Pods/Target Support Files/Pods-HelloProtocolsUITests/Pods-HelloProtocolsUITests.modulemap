@@ -1,0 +1,6 @@
+framework module Pods_HelloProtocolsUITests {
+  umbrella header "Pods-HelloProtocolsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

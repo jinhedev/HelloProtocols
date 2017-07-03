@@ -1,0 +1,6 @@
+framework module Pods_HelloProtocols {
+  umbrella header "Pods-HelloProtocols-umbrella.h"
+
+  export *
+  module * { export * }
+}
